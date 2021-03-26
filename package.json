@@ -1,0 +1,44 @@
+{
+  "name": "ImageToSticker",
+  "version": "1.0.0",
+  "description": "Termux only",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "async": "^2.4.1",
+    "base64-img": "^1.0.4",
+    "cfonts": "^2.9.0",
+    "escape-string-regexp": "^1.0.5",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^9.1.0",
+    "moment-timezone": "^0.5.33",
+    "needle": "^2.5.2",
+    "node-fetch": "^2.6.1",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0",
+    "remove.bg": "^1.3.0",
+    "request": "^2.81.0",
+    "spinnies": "^0.5.1",
+    "util": "^0.10.4"
+  },
+  "scripts": {
+    "start": "node lindow.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindow666/imgtosticker.git"
+  },
+  "keywords": [
+    "k"
+  ],
+  "author": "Lindow",
+  "bugs": {
+    "url": "https://github.com/lindow666/imgtosticker/issues"
+  },
+  "homepage": "https://github.com/lindow666/imgtosticker/readme"
+}
